@@ -9,8 +9,8 @@
 </head>
 </head>
 <body>
-<h1 align="center">Welcome to DevOps Class</h1>
-<h1 align="center"> Yahoo! is a Outsourcing, Consulting, Service, and Product Development Company</h1>
+<h1 align="center">Welcome to DevOps </h1>
+<h1 align="center"> Devops Demo</h1>
 <hr>
 <div style="text-align: center;">
 	<!-- span>
@@ -18,8 +18,8 @@
 	</span -->
 	<span style="font-weight: bold;">
 		DevOps Made Easy,
-		Bangalore,
-		devopsmadeeasy@outlook.com
+		Chennai,
+		unknown@gamil.com
 		<br>
 		<a href="mailto:iniyan.balasubramaniyam@rapiddatatech.com">Mail to DevOps Made Easy</a>
 	</span>
@@ -28,8 +28,8 @@
 	<p> Service : <a href="services/employee/getEmployeeDetails">Get Employee Details </p>
 <hr>
 <hr>
-<p align=center>DevOps Made Easy - Training, Consulting, Services, Product development.</p>
-<p align=center><small>Copyrights 2021 by <a href="http://devopsmadeeasy.com/">DevOps Made Easy</a> </small></p>
+<p align=center>DevOps Everywhere</p>
+<p align=center><small>Copyrights 2024 by <a href="">Haha smile it and kill it</a> </small></p>
 
 </body>
 </html>
