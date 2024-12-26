@@ -21,7 +21,7 @@
 		Bangalore,
 		devopsmadeeasy@outlook.com
 		<br>
-		<a href="mailto:devopsmadeeasy@outlook.com">Mail to DevOps Made Easy</a>
+		<a href="mailto:iniyan.balasubramaniyam@rapiddatatech.com">Mail to DevOps Made Easy</a>
 	</span>
 </div>
 <hr>
