@@ -1,14 +1,14 @@
 pipeline {
     agent any
     environment{
-        IMAGE_NAME = "demoimage"
-        DOCKERHUB_USERNAME = "kunchalavikram"
+        IMAGE_NAME = "imagetry"
+        DOCKERHUB_USERNAME = "iniyan"
     }
 
     stages {
         stage('Checkout') {
             steps {
-                git 'https://github.com/kunchalavikram1427/maven-employee-web-application.git'
+                git 'https://github.com/Iniyan88/java-mave-helloworld.git'
             }
         }
         stage('build'){
